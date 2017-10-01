@@ -1,4 +1,4 @@
-# plexus-streams-parser.morningstreams
+# Morningstreams
 Plexus Streams Parser | F1 Morningstreams - http://morningstreams.com/
 
 To install
