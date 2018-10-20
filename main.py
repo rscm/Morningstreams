@@ -17,7 +17,8 @@ sys.path.append(core_dir)
 
 # json format url
 #[{"server":"Server 1","details":"Sky Sports F1 HD 1080p 6000kbps","id":"idhash1","acestreamid":"acehash1"},{"server":"Server 2","details":"Sky Sports F1 HD 720p 2000kbps","id":"idhash2","acestreamid":"acehash2"}]
-url = "http://138.197.183.39/api/acestreams"
+#url = "http://138.197.183.39/api/acestreams"
+url = "https://morningstreams.com/api/acestreams.json"
 
 def module_tree(name,url,iconimage,mode,parser,parserfunction):
     if not parserfunction: ms_listing()
